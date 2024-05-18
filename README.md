@@ -9,6 +9,7 @@ The dataset used in this project is provided by DataCo Global. It includes compr
 As the size of the dataset is greater than 25MB, it was unable to upload, therefore i have attached the link to the dataset below.
 
 The Link of the Dataset: https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis/data?select=DataCoSupplyChainDataset.csv
+
 **Video Explanation**
 
 For a detailed explanation of the project and process, please refer to the video linked below:
