@@ -13,3 +13,4 @@ The Link of the Dataset: https://www.kaggle.com/datasets/shashwatwork/dataco-sma
 **Video Explanation**
 
 For a detailed explanation of the project and process, please refer to the video linked below:
+https://drive.google.com/file/d/1vgRhoPjCSzJLd0inT1HmMhHfwUgUig55/view?usp=drive_link
